@@ -1,0 +1,14 @@
+# services:
+#   app:
+#     image: valuevanguard
+#     build: 
+#       context: .
+#       dockerfile: Dockerfile
+#     container_name: ValueVanguard
+#     ports:
+#       - "8888:8888"
+#     volumes:
+#       - .:/app
+#     working_dir: /app
+#     stdin_open: true  # Keep stdin open for interactive mode
+#     tty: true
