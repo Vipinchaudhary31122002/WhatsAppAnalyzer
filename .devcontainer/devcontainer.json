@@ -1,5 +1,5 @@
 {
-    "name": "PractiseDev",
+    "name": "WhatsAppAnalyzer",
     "build": {
         "dockerfile": "dockerfile"
     },
@@ -8,7 +8,8 @@
             "extensions": [
                 "ms-python.python",
                 "esbenp.prettier-vscode",
-                "ms-toolsai.jupyter"
+                "christian-kohler.path-intellisense",
+                "oderwat.indent-rainbow"
             ]
         }
     }
