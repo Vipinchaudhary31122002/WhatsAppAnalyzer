@@ -6,7 +6,17 @@ from matplotlib.font_manager import FontProperties
 import seaborn as sns
 import functions
 
-st.title('WhatsApp Chat Analyzer')
+# Set Streamlit page configuration
+st.set_page_config(page_title="WhatsApp Analyzer", layout="wide")
+st.markdown("""
+    <style>
+        .main {background-color: #f5f5f5;}
+        h1 {text-align: center; color: #2c3e50;}
+        .stFileUploader {justify-content: center;}
+    </style>
+""", unsafe_allow_html=True)
+
+st.title('WhatsApp Analyzer')
 file = st.file_uploader("Choose a file")
 
 if file:
