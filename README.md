@@ -19,7 +19,7 @@ WhatsApp Analyzer is an interactive tool that provides deep insights into your W
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Vipinchaudhary31122002/WhatsAppAnalyzer.git
+git clone https://github.com/yourusername/WhatsAppAnalyzer.git
 cd WhatsAppAnalyzer
 ```
 
