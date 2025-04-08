@@ -85,5 +85,3 @@ streamlit run main.py
 🔹 Sentiment Analysis of messages.  
 🔹 Chatbot-style automated insights.  
 🔹 Advanced AI-based message categorization.  
-
-📌 **Created by [Vipin Chaudhary](https://github.com/Vipinchaudhary31122002)** 🚀
